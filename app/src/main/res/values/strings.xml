@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Score Keeper App</string>
+    <string name="FCLion">FCLion</string>
+    <string name="Giants">Giants</string>
+    <string name="Reset">Reset</string>
+    <string name="corner">corner</string>
+    <string name="goal">goal</string>
+</resources>
